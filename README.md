@@ -11,10 +11,10 @@ By starting postgraduate studies after a long gap, I was urged to use statistica
 
 Moving to the US, I started working in an IT-agribusiness company, realizing that my knowledge in statistics and coding is perilously out of date, and a refresh appears to be a must-have, and ultimately my incentive to join a data science boot camp and add Python and R languages to my toolbox; followed by Tableau and SQL as my in hand tools for business intelligence purposes.
 
-```
+
 ## Fun f@cts: 
 
 - My first email, registered in 1999, was an MS-DOS-based powered by Pegasus Mail. 
 - I was among the first round of blogger users who were invited by Google to register for Gmail ([Story](https://www.theguardian.com/technology/blog/2004/apr/21/bloggerusersg)). Although massih@gmail.com was available, I preferred to use the same username I already had with Yahoo since 1999 (registered a few days after the Pegasus one). 
 - Since then, I have owned personal email addresses with .com, .net, .ac, and .gov domains.
-```
+
