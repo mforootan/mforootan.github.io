@@ -1,11 +1,11 @@
 theme: jekyll-theme-minimal
 # Name of website
-#title: Massih's Git
+title: Massih's Git
 
 # Short description of your site
 description: A coding sandbox
 
-##### My life; in zeroes and ones
+description: ##### My life; in zeroes and ones
 ###### I stepped into the programming world in my teens with a [CASIO FX-702P](https://en.wikipedia.org/wiki/Casio_FX-702P) programmable calculator. With a collection of built-in math function, it was a suitable tool for those who were interested in automating simple to semi-complex math problems. When the home computers became popular (for dual use of gaming and BASIC programming), my pick was a [ZX-Spectrum +2](http://www.computinghistory.org.uk/det/3648/Sinclair-ZX-Spectrum-2/), pretty much for the same trend of programming interests. 
 ###### After PCs became popular during my undergrad, I started QBASIC and shortly afterward, [QuickBASIC](https://en.wikipedia.org/wiki/QuickBASIC). With genetics and statistics dominated my routine studies, digging into programming statistical procedures became my top interest. The big leap was starting to code for experimental designs, but before making significant progress, I learned about [MSTAT-C](https://hasanuzzaman.weebly.com/uploads/9/3/4/0/934025/data_analysis_with_mstat.pdf), a small package for solving experimental designs, and my passion was stalled.
 ###### Meanwhile, Windows 3.x had already entered the market, and it was evident that the MS-DOS-based programming era is almost over. It didn’t take me long to find that Microsoft has released [Visual Basic](https://winworldpc.com/product/microsoft-visual-bas/30), so I grabbed it and started migrating my old QB codes to the new platform to get my feet wet. When Windows 9x generation emerged, I felt my programming skills are now obsolete, and gradually quit programming and focused on using spreadsheets (started with Lotus 1-2-3 but switched to Excel in a very short time) for data tinkering and exploration.
