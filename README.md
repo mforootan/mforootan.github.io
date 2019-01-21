@@ -1,6 +1,6 @@
 ## [Fatal and Serious Injury Crashes](https://www.tn.gov/content/tn/safety/stats/dashboards.html) 
 This Tableau-powered dashboard contains interactive information on fatal and serious injury crashes on Tennessee roadways for the current and previous years.
-## Land Use change in Tennessee (My bootcamp Project)
+## Land Use change in Tennessee (bootcamp project)
 The objective of the project was to explore the pattern and hypothetical reasons for the changes in land use in Tennessee.
 It consisted of two sub-projects:
 
