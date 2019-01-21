@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+# Name of website
+title: Massih's Git
+
+# Short description of your site
+description: A coding sandbox
