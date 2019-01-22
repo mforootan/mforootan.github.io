@@ -1,5 +1,5 @@
 # Massih's Git 
-###### Coding Sandbox
+##### Coding Sandbox
 ------
 ## :: Fatal and Serious Injury Crashes
 ###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
@@ -20,7 +20,7 @@ My life; in zeroes and ones
 
 I stepped into the programming world in my teens with a 
 CASIO FX-702P programmable calculator. With a collection 
-of built-in math function, it was a suitable tool for 
+of built-in math functions, it was a suitable tool for 
 those who were interested in automating simple to 
 semi-complex math problems. When the home computers 
 became popular (for dual use of gaming and BASIC 
