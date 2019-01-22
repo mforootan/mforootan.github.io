@@ -10,8 +10,8 @@ This SQL / Tableau-powered [dashboard](https://www.tn.gov/content/tn/safety/stat
 ###### Nashville Software School
 The objective of the project was to explore the pattern and hypothetical reasons for the changes in land use in Tennessee.
 It consisted of two sub-projects:
-- [Phase I](https://github.com/mforootan/TN_Land_Use) (R & Shiny App): Visualizing the changes in a dashboard.
-- [Phase II](https://github.com/mforootan/NSS_Capstone) (Python & SciKit) Identifying the measures that contribute to the land use changes using dimension reduction.
+- [Phase I](https://github.com/mforootan/TN_Land_Use) (R & Shiny App): Visualizing the land use changes with an interactive dashboard.
+- [Phase II](https://github.com/mforootan/NSS_Capstone) (Python & SciKit) Identifying the measures that contribute to the land use changes using dimension reduction. A PowerPoint slideshow included in this section that reviews the methodology and results.
 
 ------ 
 
