@@ -2,10 +2,12 @@
 ###### Coding Sandbox
 ------
 ## :: Fatal and Serious Injury Crashes
+###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
 This Tableau-powered [dashboard](https://www.tn.gov/content/tn/safety/stats/dashboards.html) contains interactive information on fatal and serious injury crashes on Tennessee roadways for the current and previous years.
 
 ------
-## :: Land Use change in Tennessee (bootcamp project)
+## :: Land Use change in Tennessee
+###### Nashville Software School
 The objective of the project was to explore the pattern and hypothetical reasons for the changes in land use in Tennessee.
 It consisted of two sub-projects:
 - [Phase I](https://github.com/mforootan/TN_Land_Use) (R & Shiny App): Visualizing the changes in a dashboard.
