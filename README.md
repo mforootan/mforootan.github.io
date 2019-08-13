@@ -4,8 +4,11 @@
 ------
 ## :: Fatal and Serious Injury Crashes
 ###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
-This SQL / Tableau-powered [dashboard](https://www.tn.gov/content/tn/safety/stats/dashboards.html) contains near-to-live interactive information on fatal and serious injury crashes on Tennessee roadways for the current and previous years.
-
+This SQL / Tableau-powered [dashboard](https://www.tn.gov/safety/stats/dashboards/crashes.html) contains near-to-live interactive information on fatal and serious injury crashes on Tennessee roadways for the current and previous years.
+------
+## :: Tennessee Traffic Fatality
+###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
+This [dashboard](https://www.tn.gov/safety/stats/dashboards/dailyfatality.html) presents a comparative year-to-date statistics on fatality in the state, divided into individual vehicle-related and driver/passenger-related components.
 ------
 ## :: Land Use change in Tennessee
 ###### Nashville Software School
