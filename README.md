@@ -22,7 +22,7 @@ It consisted of two sub-projects:
 ------
 ## :: Logistic Regression
 ###### Nashville Software School
-This Jupyter [notebook](https://github.com/mforootan/LogReg) was created to demonstrate the concept of logistic regression, and how to implement one in Python.
+This Jupyter [notebook](https://github.com/mforootan/NSS_Stat_LogReg) was created to demonstrate the concept of logistic regression, and how to implement one in Python.
 
 ------ 
 
