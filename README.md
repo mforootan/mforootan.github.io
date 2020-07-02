@@ -16,8 +16,8 @@ This [dashboard](https://www.tn.gov/safety/stats/dashboards/trafficfatality.html
 ###### Nashville Software School
 The objective of the project was to explore the pattern and hypothetical reasons for the changes in land use in Tennessee.
 It consisted of two sub-projects:
-- [Phase I](https://github.com/mforootan/TN_Land_Use) (R & Shiny App): Visualizing the land use changes with an interactive dashboard.
-- [Phase II](https://github.com/mforootan/NSS_Capstone) (Python & SciKit): Identifying the measures that contribute to the land use changes using dimension reduction. A PowerPoint slideshow is included in this section that reviews the methodology and results.
+- [Phase I](https://github.com/mforootan/NSS_MidStone_TN_Land_Use) (R & Shiny App): Visualizing the land use changes with an interactive dashboard.
+- [Phase II](https://github.com/mforootan/NSS_Capstone_TN_land_use) (Python & SciKit): Identifying the measures that contribute to the land use changes using dimension reduction. A PowerPoint slideshow is included in this section that reviews the methodology and results.
 
 ------
 ## :: Logistic Regression
