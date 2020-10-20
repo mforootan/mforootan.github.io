@@ -9,7 +9,7 @@ This SQL / Tableau-powered [dashboard](https://www.tn.gov/safety/stats/dashboard
 ------
 ## :: Tennessee Traffic Fatality
 ###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
-This [dashboard](https://www.tn.gov/safety/stats/dashboards/trafficfatality.html) presents a comparative year-to-date statistics on road fatality in the state, divided into individual vehicle-related and driver/passenger-related components.
+These two dashboards present a comparative [year-to-date](https://www.tn.gov/safety/stats/dashboards/trafficfatality.html) and [historical](https://www.tn.gov/safety/stats/dashboards/fatalityhistory.html) statistics on road fatality in the state, divided into individual vehicle-related and driver/passenger-related components.
 
 ------
 ## :: Land Use change in Tennessee
