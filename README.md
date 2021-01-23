@@ -15,7 +15,7 @@ This SQL / Tableau-powered [dashboard](https://www.tn.gov/safety/stats/dashboard
 ------
 ## :: Identify Reward Performance and Reward Progress Schools
 ###### Division of Strategy and Data, TN Dept of Education
-This [repository](https://github.com/mforootan/Reward_Performance_Schools) contains a Jupyter notebook file and data for an assessment project that aimed on identifying schools with outstanding performance
+This [repository](https://github.com/mforootan/Reward_Performance_Schools) contains R scripting files and data for an evaluation project that aimed on identifying schools with outstanding performance.
 
 ------
 ## :: Tennessee Traffic Fatality
