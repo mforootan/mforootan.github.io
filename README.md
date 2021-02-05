@@ -39,7 +39,7 @@ This Jupyter [notebook](https://github.com/mforootan/NSS_Stat_LogReg) was create
 
 ##### :: M y _ l i f e \  i n _ z e r o e s _ a n d _ o n e s \ >
 
-###### I stepped into the programming world in my teens with a [CASIO FX-702P](http://www.rskey.org/fx702pprogrammable) calculator. With a collection of built-in math functions, it was a suitable tool for those who were interested in automating simple to semi-complex math problems. When the home computers became popular (for dual use of gaming and BASIC programming), my pick was a [ZX-Spectrum +2](http://www.computinghistory.org.uk/det/3648/Sinclair-ZX-Spectrum-2/), pretty much for the same trend of programming interests. 
+###### I stepped into the programming world in my teens with a [CASIO FX-702P](https://www.calculator.org/calculators/Casio_fx-702P.html) calculator. With a collection of built-in math functions, it was a suitable tool for those who were interested in automating simple to semi-complex math problems. When the home computers became popular (for dual use of gaming and BASIC programming), my pick was a [ZX-Spectrum +2](http://www.computinghistory.org.uk/det/3648/Sinclair-ZX-Spectrum-2/), pretty much for the same trend of programming interests. 
 
 ###### After PCs became popular during my undergrad, I started QBASIC and shortly afterward, [QuickBASIC](https://classicreload.com/dosx-quickbasic.html). With genetics and statistics dominated my routine studies, digging into programming statistical procedures became my top interest. The big leap was starting to code for experimental designs, but before making significant progress, I learned about [MSTAT-C](https://msu.edu/~freed/mstatc.htm), a small package for solving experimental designs, which terminated my ideas for more design plans.
 
