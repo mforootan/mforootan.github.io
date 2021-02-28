@@ -37,7 +37,7 @@ This Jupyter [notebook](https://github.com/mforootan/NSS_Stat_LogReg) was create
 
 ------ 
 
-##### :: M y _ l i f e \  i n _ z e r o e s _ a n d _ o n e s \ >
+##### :: M y _ l i f e \  i n _ z e r o e s _ a n d _ o n e $
 
 ###### I stepped into the programming world in my teens with a [CASIO FX-702P](https://www.calculator.org/calculators/Casio_fx-702P.html) calculator. With a collection of built-in math functions, it was a suitable tool for those who were interested in automating simple to semi-complex math problems. When the home computers became popular (for dual use of gaming and BASIC programming), my pick was a [ZX-Spectrum +2](http://www.computinghistory.org.uk/det/3648/Sinclair-ZX-Spectrum-2/), pretty much for the same trend of programming interests. 
 
@@ -49,7 +49,7 @@ This Jupyter [notebook](https://github.com/mforootan/NSS_Stat_LogReg) was create
 
 ###### Moving to the US, I started working in an IT-agribusiness company, realizing that my knowledge in statistics and coding is perilously out of date, and a refresh appears to be a must-have. This ultimately turned into my incentive to join a data science boot camp and add [Python](https://www.python.org/) and [R](https://www.r-project.org/) languages to my set of skills; followed by [Tableau](https://www.tableau.com/) and [SQL](https://www.w3schools.com/sql/) as my in hand tools for business intelligence purposes.
 
-##### :: F u n _ f @ c t s \ >
+##### :: F u n _ f @ c t $
 ###### - My first email, registered in 1999, was an MS-DOS-based powered by [Pegasus Mail](http://www.pmail.com/overviews/ovw_pmail.htm). 
 ###### - I was among the first round of [blogger](http://massihforootan.blogspot.com/) users who were invited by Google to register for Gmail ([Story](https://www.theguardian.com/technology/blog/2004/apr/21/bloggerusersg)). Although massih@gmail.com was available, I preferred to use the same username I already had with Yahoo since 1999 (registered a few days after the Pegasus one). 
 ###### - Since then, I have owned email addresses with .com, .net, .ac.uk, .ac.ir, .gov, .org, and .edu domains.
