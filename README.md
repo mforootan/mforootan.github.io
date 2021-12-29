@@ -53,3 +53,4 @@ This Jupyter [notebook](https://github.com/mforootan/NSS_Stat_LogReg) was create
 ###### - My first email, registered in 1999, was an MS-DOS-based powered by [Pegasus Mail](http://www.pmail.com/overviews/ovw_pmail.htm). 
 ###### - I was among the first round of [blogger](http://massihforootan.blogspot.com/) users who were invited by Google to register for Gmail ([Story](https://www.theguardian.com/technology/blog/2004/apr/21/bloggerusersg)). Although massih@gmail.com was available, I preferred to use the same username I already had with Yahoo since 1999 (registered a few days after the Pegasus one). 
 ###### - Since then, I have owned email addresses with .net, .com, .ac.uk, .ac.ir, .gov, .org, and .edu domains.
+###### - I am an Inbox Zero.
