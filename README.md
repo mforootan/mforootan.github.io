@@ -1,7 +1,7 @@
 # Massih @ Git
  
 ##### Coding Sandbox
- [![https://www.linkedin.com/in/massihforootan/](https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg)](https://www.linkedin.com/in/massihforootan/)
+ [https://www.linkedin.com/in/massihforootan/](https://www.linkedin.com/in/massihforootan/)
  
 
 ------
