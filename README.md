@@ -1,12 +1,10 @@
 # Massih @ Git
  
-##### [https://www.linkedin.com/in/massihforootan/](https://www.linkedin.com/in/massihforootan/)
 ##### Coding Sandbox
- [![Arctic Code Vault Contributor](https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png)](https://github.com/mforootan?achievement=arctic-code-vault-contributor&tab=achievements)
+ [![https://www.linkedin.com/in/massihforootan/](https://about.linkedin.com/content/dam/me/about/LinkedIn_Icon.jpg.original.jpg)](https://www.linkedin.com/in/massihforootan/)
  
 
 ------
-
 ## :: Improve College-Going and College-Readiness
 ###### Division of Research and Evaluation, TN Dept of Education
 This [repository](https://github.com/mforootan/TN_DoE_College-Readiness) contains a Jupyter notebook file and data for an assessment project that aimed on identifying measures that can be used to evaluate highschool graduates' readiness for college studies.
@@ -40,7 +38,6 @@ It consisted of two sub-projects:
 This Jupyter [notebook](https://github.com/mforootan/NSS_Stat_LogReg) was created to demonstrate the concept of logistic regression, and how to implement one in Python.
 
 ------ 
-
 ##### ~ / M y _ L i f e / i n _ Z e r o e s _ a n d _ O n e $
 
 ###### I stepped into the programming world in my teens with a [CASIO FX-702P](https://www.google.com/search?q=casio+fx+702p) calculator. With a collection of built-in math functions, it was a suitable tool for those who were interested in automating simple to semi-complex math problems. When the home computers became popular (for dual use of gaming and BASIC programming), my pick was a [ZX-Spectrum +2](https://www.google.com/search?q=zx+spectrum+%2B2), pretty much for the same trend of programming interests. 
