@@ -33,6 +33,8 @@ It consisted of two sub-projects:
 - [Phase I](https://github.com/mforootan/NSS_MidStone_TN_Land_Use) (R & Shiny App): Visualizing the land use changes with an interactive dashboard.
 - [Phase II](https://github.com/mforootan/NSS_Capstone_TN_land_use) (Python & SciKit): Identifying the measures that contribute to the land use changes using dimension reduction. A PowerPoint slideshow is included in this section that reviews the methodology and results.
 
+The visuals indicated various patterns in correlation between land availability and value across counties. Analyses suggested the main criteria affecting land value are distance from major cities and the profitability of agriculture.
+
 ------
 ## :: Logistic Regression
 ###### Nashville Software School
