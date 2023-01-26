@@ -9,6 +9,10 @@
 ###### Division of Research and Evaluation, TN Dept of Education
 This [repository](https://github.com/mforootan/TN_DoE_College-Readiness) contains a Jupyter notebook file and data for an assessment project that aimed on identifying measures that can be used to evaluate highschool graduates' readiness for college studies.
 
+Using PCA, feasible criteria was selected, on which basis the model schools was picked. 
+
+With regards to data quality, however, there were both missing data and duplicated records in the dataset. The strategy to handle the data was discussed and implememnted. Future topics for studies (breaking the data within sub regions) were proposed.
+
 ------
 ## :: Fatal and Serious Injury Crashes
 ###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
