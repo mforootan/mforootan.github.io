@@ -5,24 +5,24 @@
  
 
 ------
-## :: Improve College-Going and College-Readiness
+## :: [Improve College-Going and College-Readiness](https://github.com/mforootan/TN_DoE_College-Readiness)
 ###### Division of Research and Evaluation, TN Dept of Education
-This [repository](https://github.com/mforootan/TN_DoE_College-Readiness) contains a Jupyter notebook file and data for an assessment project that aimed on identifying measures that can be used to evaluate highschool graduates' readiness for college studies.
+This repository contains a Jupyter notebook file and data for an assessment project that aimed on identifying measures that can be used to evaluate highschool graduates' readiness for college studies.
 
 Using PCA, feasible criteria was selected, on which basis the model schools was picked. 
 
 With regards to data quality, however, there were both missing data and duplicated records in the dataset. The strategy to handle the data was discussed and implememnted. Future topics for studies (breaking the data within sub regions) were proposed.
 
 ------
-## :: Fatal and Serious Injury Crashes
+## :: [Fatal and Serious Injury Crashes](https://www.tn.gov/safety/stats/dashboards/fatalseriousinjurycrashes.html)
 ###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
-This SQL / Tableau-powered [dashboard](https://www.tn.gov/safety/stats/dashboards/fatalseriousinjurycrashes.html) contains near-to-live interactive information on fatal and serious injury crashes on Tennessee roadways for the current and previous years.
+This SQL / Tableau-powered dashboard contains near-to-live interactive information on fatal and serious injury crashes on Tennessee roadways for the current and previous years.
 This dashboard was presented in 2019 LifeSavers Conference ([Link](https://lifesaversconference.org/wp-content/uploads/2019/03/Forootan-ESP-06-a.pdf))
 
 ------
-## :: Identify Reward Performance and Reward Progress Schools
+## :: [Identify Reward Performance and Reward Progress Schools](https://github.com/mforootan/Reward_Performance_Schools)
 ###### Division of Strategy and Data, TN Dept of Education
-This [repository](https://github.com/mforootan/Reward_Performance_Schools) contains R scripting files and data for an evaluation project that aimed on identifying schools with outstanding performance.
+This repository contains R scripting files and data for an evaluation project that aimed on identifying schools with outstanding performance.
 
 ------
 ## :: Tennessee Traffic Fatality
@@ -40,9 +40,9 @@ It consisted of two sub-projects:
 The visuals indicated various patterns in correlation between land availability and value across counties. Analyses suggested the main criteria affecting land value are distance from major cities and the profitability of agriculture.
 
 ------
-## :: Logistic Regression
+## :: [Logistic Regression](https://github.com/mforootan/NSS_Stat_LogReg)
 ###### Nashville Software School
-This Jupyter [notebook](https://github.com/mforootan/NSS_Stat_LogReg) was created to demonstrate the concept of logistic regression, and how to implement one in Python.
+This Jupyter notebook was created to demonstrate the concept of logistic regression, and how to implement one in Python.
 
 ------ 
 ##### ~ / M y _ L i f e / i n _ Z e r o e s _ a n d _ O n e $
