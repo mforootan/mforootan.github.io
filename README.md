@@ -7,22 +7,22 @@
 ------
 ## :: [Improve College-Going and College-Readiness](https://github.com/mforootan/TN_DoE_College-Readiness)
 ###### Division of Research and Evaluation, TN Dept of Education
-This repository contains a Jupyter notebook file and data for an assessment project that aimed on identifying measures that can be used to evaluate highschool graduates' readiness for college studies.
+This repository contains a Jupyter Notebook file and data for an assessment project aimed at identifying measures that can be used to evaluate high school graduates' readiness for college studies.
 
-Using PCA, feasible criteria was selected, on which basis the model schools was picked. 
+Using PCA, feasible criteria were selected, on which basis the model schools were picked. 
 
-With regards to data quality, however, there were both missing data and duplicated records in the dataset. The strategy to handle the data was discussed and implememnted. Future topics for studies (breaking the data within sub regions) were proposed.
+With regards to data quality, however, there were both missing data and duplicated records in the dataset. The strategy to handle the data was discussed and implemented. Future topics for studies (breaking the data within sub-regions) were proposed.
 
 ------
 ## :: [Fatal and Serious Injury Crashes](https://www.tn.gov/safety/stats/dashboards/fatalseriousinjurycrashes.html)
 ###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
 This SQL / Tableau-powered dashboard contains near-to-live interactive information on fatal and serious injury crashes on Tennessee roadways for the current and previous years.
-This dashboard was presented in 2019 LifeSavers Conference ([Link](https://lifesaversconference.org/wp-content/uploads/2019/03/Forootan-ESP-06-a.pdf))
+This dashboard was presented at the 2019 LifeSavers Conference ([Link](https://lifesaversconference.org/wp-content/uploads/2019/03/Forootan-ESP-06-a.pdf))
 
 ------
 ## :: [Identify Reward Performance and Reward Progress Schools](https://github.com/mforootan/Reward_Performance_Schools)
 ###### Division of Strategy and Data, TN Dept of Education
-This repository contains R scripting files and data for an evaluation project that aimed on identifying schools with outstanding performance.
+This repository contains R scripting files and data for an evaluation project that aimed to identify schools with outstanding performance.
 
 ------
 ## :: Tennessee Traffic Fatality
@@ -30,7 +30,7 @@ This repository contains R scripting files and data for an evaluation project th
 These two dashboards present a comparative [year-to-date](https://www.tn.gov/safety/stats/dashboards/trafficfatality.html) and [historical](https://www.tn.gov/safety/stats/dashboards/fatalityhistory.html) statistics on road fatality in the state, divided into individual vehicle-related and driver/passenger-related components.
 
 ------
-## :: Land Use change in Tennessee
+## :: Land Use Change in Tennessee
 ###### Nashville Software School
 The objective of the project was to explore the pattern and hypothetical reasons for the changes in land use in Tennessee.
 It consisted of two sub-projects:
@@ -53,7 +53,7 @@ This Jupyter notebook was created to demonstrate the concept of logistic regress
 
 ###### Meanwhile, Windows 3.x had already entered the market, and it was evident that the MS-DOS-based programming era was almost over. It didn’t take me long to find that Microsoft has released [Visual Basic](https://www.google.com/search?q=visual+basic+3), so I grabbed it and started migrating my old QB codes to the new platform to get my feet wet. When Windows 9x generation emerged, I felt my programming skills had become obsolete, thus gradually abandoned programming and focused on mastering spreadsheets (started with Lotus 1-2-3 but quickly switched to [Excel](https://www.google.com/search?q=excel+4.0)) for data wrangling and exploration.
 
-###### By starting postgraduate studies after a long gap, I was urged to use statistical tools again. The need for coding skills was raised again with Windows 98 in its glorious days and Windows 2000 and XP coming up, and statistical packages (Minitab, SPSS, and [SAS](https://support.sas.com/documentation/onlinedoc/91pdf/)) have become more user-friendly than ever, and learning resources were pretty well populated and accessible. Yet I could hardly be happier when found out that Visual Basic has become the kernel of macro language in Microsoft Office, specifically Excel. The [VBA](https://www.google.com/search?q=vba) and SAS programs thus became my main tools for programming and statistical analysis for nearly 10 years ([sample ANOVA templates](https://github.com/mforootan/SAS_ODS)).
+###### By starting postgraduate studies after a long gap, I was urged to use statistical tools again. The need for coding skills was raised again with Windows 98 in its glorious days and Windows 2000 and XP coming up, and statistical packages (Minitab, SPSS, and [SAS](https://support.sas.com/documentation/onlinedoc/91pdf/)) have become more user-friendly than ever, and learning resources were pretty well populated and accessible. Yet I could hardly be happier when found out that Visual Basic has become the kernel of macro language in Microsoft Office, specifically Excel. The [VBA](https://www.google.com/search?q=vba) and SAS programs thus became my main tools for programming and statistical analysis for nearly 10 years ([selected ANOVA templates](https://github.com/mforootan/SAS_ODS)).
 
 ###### Moving to the United States, I initially joined the IT-agribusiness sector, but after a while realized that my knowledge in statistics and coding is perilously out of date, and an update appears to be a must-do. This founded an incentive to join a data science boot camp and add [Python](https://www.python.org/) and [R](https://www.r-project.org/) languages to my set of skills; followed by [SQL](https://www.w3schools.com/sql/) and [Tableau](https://www.tableau.com/) for business intelligence purposes after rejoining the job market. With an ongoing data analysis career in a [Gen3](https://gen3.org/)-powered data common, data querying with [API](https://www.google.com/search?q=api) and [GraphQL](https://graphql.org/) are my new areas of interest.
 
