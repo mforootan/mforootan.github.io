@@ -1,3 +1,4 @@
+<div style="background-color: #000000">
 # <img src="image/4mobile_green.jpg" alt="Description of the image" height="50"> massiHUB
  
 ##### Coding Sandbox
@@ -62,3 +63,4 @@ This Jupyter notebook was created to demonstrate the concept of logistic regress
 ###### - I was among the first round of [Blogger](http://massihforootan.blogspot.com/) users who were invited by Google to register for Gmail in 2004 ([Story](https://www.theguardian.com/technology/blog/2004/apr/21/bloggerusersg)). Despite a wide range of usernames being available (including both my first and last name individually), I preferred to coin the very fourteen-character username I already had with Yahoo since 1999 (registered a few days after the Pegasus one) as my online identity. 
 ###### - Since then, I have owned email addresses with .net, .com, .ac.uk, .ac.ir, .gov, .org, and .edu domains; in that order.
 ###### - I am an Inbox Zero.
+</div>
