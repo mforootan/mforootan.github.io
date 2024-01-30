@@ -6,37 +6,56 @@
 ------
 ## :: [Improve College-Going and College-Readiness](https://github.com/mforootan/TN_DoE_College-Readiness)
 ###### Division of Research and Evaluation, TN Dept of Education
-This repository contains a Jupyter Notebook file and data for an assessment project aimed at identifying measures that can be used to evaluate high school graduates' readiness for college studies.
 
-Using PCA, feasible criteria were selected, on which basis the model schools were picked. 
+This repository comprises the data and computer code (in Python, in a Jupyter notebook) for an assessment project with the objective of identifying measures that can evaluate high school graduates’ preparedness for collegiate studies.
 
-With regards to data quality, however, there were both missing data and duplicated records in the dataset. The strategy to handle the data was discussed and implemented. Future topics for studies (breaking the data within sub-regions) were proposed.
+Researchers have great interest in enhancing college readiness for all youth and increasing the rate of postsecondary enrollment among graduates. The community is equally passionate regarding improving its students’ postsecondary success. For many of these students, college is not perceived as a viable option. Researchers posit that the district can improve college readiness among all district students by first identifying high schools to serve as “models of excellence” and then learning from these exemplars about best practices for producing “college ready” students who enroll and persist in postsecondary education. Therefore, the available data was examined to recommend a model school.
+
+Utilizing principal component analysis (PCA), viable criteria were selected, upon which model schools were chosen. It appears that the most distinguishing factors to utilize for scoring are:
+
+* The standardized grades (mathematics, SAT assessments)
+* Enrolling for college. The two metrics that seem most relevant are: Enrolling for a 4-year degree (i.e., a strong education), and enrolling shortly after high school (an index of passion for education).
+
+However, regarding data quality, there were both missing values and duplicated entries in the dataset. The strategy to manage the data was deliberated and implemented. Further research avenues (disaggregating the data within sub-regions) were suggested.
 
 ------
 ## :: [Fatal and Serious Injury Crashes](https://www.tn.gov/safety/stats/dashboards/fatalseriousinjurycrashes.html)
 ###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
-This SQL / Tableau-powered dashboard contains near-to-live interactive information on fatal and serious injury crashes on Tennessee roadways for the current and previous years.
-This dashboard was presented at the 2019 LifeSavers Conference ([Link](https://lifesaversconference.org/wp-content/uploads/2019/03/Forootan-ESP-06-a.pdf))
+This dashboard comprises near real-time interactive information on fatal and serious injury collisions on Tennessee roadways for the current and previous years.
+
+The dashboard allows for nuanced analysis of fatal and serious crashes through interactive filters and graphs powered by a SQL database and Tableau. Users can analyze trends and patterns by location, road conditions, time of day, victim demographics, and other parameters. The dashboard provides actionable insights to inform traffic safety policies, enforcement initiatives, infrastructure improvements, public education campaigns, and other countermeasures aimed at reducing crash-related deaths and injuries on Tennessee roads.
+
+This dashboard was presented at the 2019 LifeSavers Conference, an annual injury prevention and traffic safety conference organized by the National Safety Council. ([Link](https://lifesaversconference.org/wp-content/uploads/2019/03/Forootan-ESP-06-a.pdf))
 
 ------
 ## :: [Identify Reward Performance and Reward Progress Schools](https://github.com/mforootan/Reward_Performance_Schools)
 ###### Division of Strategy and Data, TN Dept of Education
-This repository contains R scripting files and data for an evaluation project that aimed to identify schools with outstanding performance.
+This repository comprises R programming scripts and data for an evaluation project with the objective of identifying schools with exceptional performance. Historically, the Tennessee Department of Education recognized the top 10 percent of schools in the state as Reward schools. Reward Performance schools constitute the top 5 percent of schools in terms of achievement as quantified by a one-year success rate. Reward Progress schools comprise the top 5 percent of schools regarding growth as gauged by the Tennessee Value-Added Assessment System.
+
+Utilizing the provided data, Reward Performance and Reward Progress schools among K-8 institutions were identified via statistical analysis. This allows recognition of high-performing schools based on rigorous quantitative metrics of student outcomes and growth. The R-based analysis enables reproducible identification of Reward schools. Further examination of pedagogical and administrative practices at these exceptional schools could illuminate drivers of student success.
 
 ------
 ## :: Tennessee Traffic Fatality
 ###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
-These two dashboards present a comparative [year-to-date](https://www.tn.gov/safety/stats/dashboards/trafficfatality.html) and [historical](https://www.tn.gov/safety/stats/dashboards/fatalityhistory.html) statistics on road fatality in the state, divided into individual vehicle-related and driver/passenger-related components.
+These two dashboards, present comparative [year-to-date](https://www.tn.gov/safety/stats/dashboards/trafficfatality.html) and [historical](https://www.tn.gov/safety/stats/dashboards/fatalityhistory.html) statistics on road fatalities in the state, divided into individual vehicle-related and driver/passenger-related components.
+
+The dashboards utilize a SQL database and Tableau analytics platform to enable interactive analysis of fatal crash trends over time. The visualizations incorporate current fatality data from the present year along with historical yearly totals going back over a decade. Segmenting fatalities into vehicle-related vs. driver/passenger-related factors allows for a nuanced epidemiological understanding of crash mortality patterns.
+
+The comparative dashboards employ data visualization principles to intuitively showcase fatality trends and disseminate actionable road safety insights to diverse stakeholders. Further analysis could relate the dashboard metrics to various interventions such as seatbelt campaigns, drunk driving crackdowns, improved road design, vehicle safety regulations, and other evidence-based policies aimed at reducing traffic-related mortality.
 
 ------
 ## :: Land Use Change in Tennessee
 ###### Nashville Software School
-The objective of the project was to explore the pattern and hypothetical reasons for the changes in land use in Tennessee.
-It consisted of two sub-projects:
-- [Phase I](https://github.com/mforootan/NSS_MidStone_TN_Land_Use) (R & Shiny App): Visualizing the land use changes with an interactive dashboard.
-- [Phase II](https://github.com/mforootan/NSS_Capstone_TN_land_use) (Python & SciKit): Identifying the measures that contribute to the land use changes using dimension reduction. A PowerPoint slideshow is included in this section that reviews the methodology and results.
 
-The visuals indicated various patterns in correlation between land availability and value across counties. Analyses suggested the main criteria affecting land value are distance from major cities and the profitability of agriculture.
+The objective of this project was to elucidate patterns and hypothetical rationales for land use changes in Tennessee. It comprised two sub-projects:
+
+- [Phase I](https://github.com/mforootan/NSS_MidStone_TN_Land_Use) (powered by R & Shiny App): Visualizing land use alterations utilizing an interactive dashboard.
+
+- [Phase II](https://github.com/mforootan/NSS_Capstone_TN_land_use) (powered by Python & SciKit): Identifying determinants contributing to land use changes via dimension reduction techniques. A PowerPoint presentation reviewing the methodology and results is included.
+
+The visualizations depicted various correlations between land availability and valuation across counties. Analyses suggested the predominant criteria influencing land value are proximity to major metropolitan areas and agricultural profitability.
+
+In summary, this project leveraged statistical programming languages and multivariate analysis to glean scientific insights into drivers of land use trends. The interactive dashboards and dimension reduction models provide data-driven understanding of how exurban dynamics shape land use patterns over time. Further research could relate the identified factors to policies on zoning, land conservation, transportation infrastructure and urban development.
 
 ------
 ## :: [Logistic Regression](https://github.com/mforootan/NSS_Stat_LogReg)
