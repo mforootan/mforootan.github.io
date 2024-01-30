@@ -51,7 +51,9 @@ The objective of this project was to elucidate patterns and hypothetical rationa
 
 - [Phase I](https://github.com/mforootan/NSS_MidStone_TN_Land_Use) (powered by R & Shiny App): Visualizing land use alterations utilizing an interactive dashboard.
 
-- [Phase II](https://github.com/mforootan/NSS_Capstone_TN_land_use) (powered by Python & SciKit): Identifying determinants contributing to land use changes via dimension reduction techniques. A PowerPoint presentation reviewing the methodology and results is included.
+- [Phase II](https://github.com/mforootan/NSS_Capstone_TN_land_use) (powered by Python & SciKit): Identifying determinants contributing to land use changes via dimension reduction techniques.
+
+A PowerPoint presentation reviewing the methodology and results is included.
 
 The visualizations depicted various correlations between land availability and valuation across counties. Analyses suggested the predominant criteria influencing land value are proximity to major metropolitan areas and agricultural profitability.
 
