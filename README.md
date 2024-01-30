@@ -11,7 +11,7 @@ This repository comprises the data and computer code (in Python, in a Jupyter no
 
 Researchers have great interest in enhancing college readiness for all youth and increasing the rate of postsecondary enrollment among graduates. The community is equally passionate regarding improving its students’ postsecondary success. For many of these students, college is not perceived as a viable option. Researchers posit that the district can improve college readiness among all district students by first identifying high schools to serve as “models of excellence” and then learning from these exemplars about best practices for producing “college ready” students who enroll and persist in postsecondary education. Therefore, the available data was examined to recommend a model school.
 
-Utilizing principal component analysis (PCA), viable criteria were selected, upon which model schools were chosen. It appears that the most distinguishing factors to utilize for scoring are:
+Utilizing principal component analysis (aka dimension reduction), viable criteria were selected, upon which model schools were chosen. It appears that the most distinguishing factors to utilize for scoring are:
 
 * The standardized grades (mathematics, SAT assessments)
 * Enrolling for college. The two metrics that seem most relevant are: Enrolling for a 4-year degree (i.e., a strong education), and enrolling shortly after high school (an index of passion for education).
@@ -53,7 +53,7 @@ The objective of this project was to elucidate patterns and hypothetical rationa
 
 - [Phase II](https://github.com/mforootan/NSS_Capstone_TN_land_use) (powered by Python & SciKit): Identifying determinants contributing to land use changes via dimension reduction techniques.
 
-A PowerPoint presentation reviewing the methodology and results is included.
+A slideshow reviewing the methodology and results is included with the phase II set of files.
 
 The visualizations depicted various correlations between land availability and valuation across counties. Analyses suggested the predominant criteria influencing land value are proximity to major metropolitan areas and agricultural profitability.
 
