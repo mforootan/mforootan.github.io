@@ -1,6 +1,7 @@
 # <img src="image/4mobile_green.jpg" alt="Description of the image" height="50"> massiHUB
 ##### Coding Sandbox
-[https://www.linkedin.com/in/massihforootan/](https://www.linkedin.com/in/massihforootan/)
+[LinkedIn](https://www.linkedin.com/in/massihforootan/)
+[ORCiD](https://orcid.org/0000-0002-8233-0630)
  
 
 ------
@@ -9,7 +10,7 @@
 
 This repository comprises the data and computer code (in Python, in a Jupyter notebook) for an assessment project with the objective of identifying measures that can evaluate high school graduates’ preparedness for collegiate studies.
 
-Researchers have great interest in enhancing college readiness for all youth and increasing the rate of postsecondary enrollment among graduates. The community is equally passionate regarding improving its students’ postsecondary success. For many of these students, college is not perceived as a viable option. Researchers posit that the district can improve college readiness among all district students by first identifying high schools to serve as “models of excellence” and then learning from these exemplars about best practices for producing “college ready” students who enroll and persist in postsecondary education. Therefore, the available data was examined to recommend a model school.
+Researchers have a great interest in enhancing college readiness for all youth and increasing the rate of postsecondary enrollment among graduates. The community is equally passionate about improving its students’ postsecondary success. For many of these students, college is not perceived as a viable option. Researchers posit that the district can improve college readiness among all district students by first identifying high schools to serve as “models of excellence” and then learning from these exemplars about best practices for producing “college-ready” students who enroll and persist in postsecondary education. Therefore, the available data was examined to recommend a model school.
 
 Utilizing principal component analysis (aka dimension reduction), viable criteria were selected, upon which model schools were chosen. It appears that the most distinguishing factors to utilize for scoring are:
 
@@ -23,7 +24,7 @@ However, regarding data quality, there were both missing values and duplicated e
 ###### Tennessee Integrated Traffic Analysis Network, TN Dept of Safety & Homeland Security
 This dashboard comprises near real-time interactive information on fatal and serious injury collisions on Tennessee roadways for the current and previous years.
 
-The dashboard allows for nuanced analysis of fatal and serious crashes through interactive filters and graphs powered by a SQL database and Tableau. Users can analyze trends and patterns by location, road conditions, time of day, victim demographics, and other parameters. The dashboard provides actionable insights to inform traffic safety policies, enforcement initiatives, infrastructure improvements, public education campaigns, and other countermeasures aimed at reducing crash-related deaths and injuries on Tennessee roads.
+The dashboard allows for a nuanced analysis of fatal and serious crashes through interactive filters and graphs powered by a SQL database and Tableau. Users can analyze trends and patterns by location, road conditions, time of day, victim demographics, and other parameters. The dashboard provides actionable insights to inform traffic safety policies, enforcement initiatives, infrastructure improvements, public education campaigns, and other countermeasures aimed at reducing crash-related deaths and injuries on Tennessee roads.
 
 This dashboard was presented at the 2019 LifeSavers Conference, an annual injury prevention and traffic safety conference organized by the National Safety Council. ([Link](https://lifesaversconference.org/wp-content/uploads/2019/03/Forootan-ESP-06-a.pdf))
 
