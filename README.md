@@ -128,7 +128,7 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 
 * This Jupyter notebook was developed to exhibit the concept of logistic regression, and how to implement this technique in Python. The code generates a logistic regression model, prints the model summary, exports and prints the coefficients, calculates predicted probabilities, and visualizes the logistic regression model along with the original data. The logistic regression model is applied to a binary response variable based on an explanatory variable. The visualization helps to understand how well the logistic regression model fits the data.
 
-* **Key Features**:
+**Key Features**:
 - Logistic Regression
 ---
 
