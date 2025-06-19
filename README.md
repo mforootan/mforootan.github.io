@@ -87,7 +87,7 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 **Publications**: [ORCID profile](https://orcid.org/0000-0002-8233-0630)
 
 ### 6. Miscellaneous Projects:
-#### 6.1. Land Use Change in Tennessee - Nashville  Software School
+### 6.1. Land Use Change in Tennessee - Nashville  Software School
 **Tools**: Python (SciKit), R (ShinyApp)  
 
 * The objective of this project was to elucidate patterns and hypothetical rationales for land use changes in Tennessee. It comprised two sub-projects:
@@ -106,7 +106,7 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 - Principal Component Analysis
 - k-Nearest Neighbors  
 
-#### 6.2. [Improve College-Going and College-Readiness](https://github.com/mforootan/TN_DoE_College-Readiness) - Division of Research and Evaluation, TN Dept of Education
+### 6.2. [Improve College-Going and College-Readiness](https://github.com/mforootan/TN_DoE_College-Readiness) - Division of Research and Evaluation, TN Dept of Education
 **Tools**: Python
 
 * This repository comprises the data and computer code (in Python, in a Jupyter notebook) for an assessment project with the objective of identifying measures that can evaluate high school graduates’ preparedness for collegiate studies.
@@ -123,13 +123,14 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 **Key Features**:
 - Principal Component Analysis
 
-#### 6.3. [Logistic Regression](https://github.com/mforootan/NSS_Stat_LogReg) - Nashville Software School
+### 6.3. [Logistic Regression](https://github.com/mforootan/NSS_Stat_LogReg) - Nashville Software School
 **Tools**: Python
 
 * This Jupyter notebook was developed to exhibit the concept of logistic regression, and how to implement this technique in Python. The code generates a logistic regression model, prints the model summary, exports and prints the coefficients, calculates predicted probabilities, and visualizes the logistic regression model along with the original data. The logistic regression model is applied to a binary response variable based on an explanatory variable. The visualization helps to understand how well the logistic regression model fits the data.
 
 **Key Features**:
 - Logistic Regression
+
 ---
 
 ## Technical Skills  
