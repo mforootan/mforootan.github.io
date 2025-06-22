@@ -4,39 +4,7 @@
 
 ## Portfolio Projects  
 
-### 1. Student Life Data Integration Dashboard  
-**Tools**: Python, Power BI, Semantic models 
-
-Developed an automated data pipeline integrating data from multiple university departments for operational insights. Designed dashboards to track student engagement, program outcomes, and operational KPIs.
-
-- Automated data cleaning and integration process from disparate systems.
-- Created interactive dashboards reducing reporting time for stakeholders.
-- Increased data visibility across Student Life Effectiveness initiatives.
-
-**Key Features**:
-- Live data connections  
-- Multi-stakeholder reporting views  
-- Role-based access dashboards  
-
----
-
-### 2. Cancer Genomics Data QC Automation  
-**Tools**: Python, Linux, REST-API  
-
-Automated large-scale, unstructured genomic data quality control at the University of Chicago's Center for Translational Data Science.
-
-- Cut data QC processing time by ~50%.
-- Developed reusable Python scripts for error detection, data migration, and cleaning.
-- Supported users via help desk, script writing, and documentation.
-
-**Key Features**:
-- Automated QC pipelines  
-- API-based data retrieval & validation  
-- End-user support & documentation  
-
----
-
-### 3. Tennessee Integrated Traffic Analysis Dashboards  
+### 1. Tennessee Integrated Traffic Analysis Dashboards  
 **Tools**: Tableau, SQL  
 
 Built 4 interactive dashboards replacing 100+ pages of monthly reports, driving operational insights for state traffic analysis:
@@ -58,10 +26,42 @@ The dashboard was presented at the 2019 LifeSavers Conference, an annual confere
 
 ---
 
+### 2. Cancer Genomics Data QC Automation  
+**Tools**: Python, Linux, REST-API  
+
+Automated large-scale, unstructured genomic data quality control at the University of Chicago's Center for Translational Data Science.
+
+- Cut data QC processing time by ~50%.
+- Developed reusable Python scripts for error detection, data migration, and cleaning.
+- Supported users via help desk, script writing, and documentation.
+
+**Key Features**:
+- Automated QC pipelines  
+- API-based data retrieval & validation  
+- End-user support & documentation  
+
+---
+
+### 3. Student Life Data Integration Dashboard  
+**Tools**: Python, Power BI, Semantic models 
+
+Developed an automated data pipeline integrating data from multiple university departments for operational insights. Designed dashboards to track student engagement, program outcomes, and operational KPIs.
+
+- Automated data cleaning and integration process from disparate systems.
+- Created interactive dashboards reducing reporting time for stakeholders.
+- Increased data visibility across Student Life Effectiveness initiatives.
+
+**Key Features**:
+- Live data connections  
+- Multi-stakeholder reporting views  
+- Role-based access dashboards  
+
+---
+
 ### 4. Data Quality Testing in Agribusiness Software  
 **Tools**: Excel VBA  
 
-Performed QA analysis at EFC Systems Inc, identifying algorithmic inconsistencies across platforms.
+Performed QA analysis at EFC Systems Inc (Now Ever.Ag), identifying algorithmic inconsistencies across platforms.
 
 - Designed test scenarios mimicking real-world use.
 - Discovered critical discrepancies between iOS and Windows software versions.
@@ -86,6 +86,8 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 
 **Publications**: [ORCID profile](https://orcid.org/0000-0002-8233-0630)
 
+---
+
 ### 6. Miscellaneous Projects:
 ### 6.1. Land Use Change in Tennessee - Nashville  Software School
 **Tools**: Python (SciKit), R (ShinyApp)  
@@ -109,7 +111,7 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 ### 6.2. [Improve College-Going and College-Readiness](https://github.com/mforootan/TN_DoE_College-Readiness) - Division of Research and Evaluation, TN Dept of Education
 **Tools**: Python
 
-* This repository comprises the data and computer code (in Python, in a Jupyter notebook) for an assessment project with the objective of identifying measures that can evaluate high school graduates’ preparedness for collegiate studies.
+* This repository comprises the data and computer code (in Python, in a Jupyter notebook) for an assessment project to identify measures that can evaluate high school graduates’ preparedness for collegiate studies.
 
 * Researchers have a great interest in enhancing college readiness for all youth and increasing the rate of postsecondary enrollment among graduates. The community is equally passionate about improving its students’ postsecondary success. For many of these students, college is not perceived as a viable option. Researchers posit that the district can improve college readiness among all district students by first identifying high schools to serve as “models of excellence” and then learning from these exemplars about best practices for producing “college-ready” students who enroll and persist in postsecondary education. Therefore, the available data was examined to recommend a model school.
 
