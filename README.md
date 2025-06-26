@@ -1,10 +1,29 @@
-# <img src="image/4mobile_green.jpg" alt="Description of the image" height="50"> massiHUB
+#  massiHUB
 ### Data Analytics Portfolio
-* [LinkedIn](https://www.linkedin.com/in/massihforootan/)
+* [LinkedIn profile](https://www.linkedin.com/in/massihforootan/)
+* [What I am good at](#what-i-am-good-at)
+* [What I deliver](#what-i-deliver)
+* [What am I most proud of?](#what-i-am-most-proud-of)
+* [Why hiring me?](#why-hiring-me)
+* Portfolio Projects
+    
+    * [Tennessee Integrated Traffic Analysis Dashboards](#tennessee-integrated-traffic-analysis-dashboards)
+    * [Cancer Genomics Data QC Automation](#cancer-genomics-data-qc-automation)
+    * [Student Life Data Integration Dashboard](#student-life-data-integration-dashboard)
+    * [Data Quality Testing in Agribusiness Software](#data-quality-testing-in-agribusiness-software)
+    * [Research Data Analysis and Experimental Design Projects](#research-data-analysis-and-experimental-design-projects)
+    * Mini - Projects
+        
+        * [Land Use Change in Tennessee](#land-use-change-in-tennessee---nashville--software-school)
+        * [Improve College-Going and College-Readiness](#improve-college-going-and-college-readiness---division-of-research-and-evaluation-tn-dept-of-education)
+        * [Logistic Regression](#logistic-regression---nashville-software-school)
+* [Technical Skills](#technical-skills)
+
+
 
 ## Portfolio Projects  
 
-### 1. Tennessee Integrated Traffic Analysis Dashboards  
+### Tennessee Integrated Traffic Analysis Dashboards  
 **Tools**: Tableau, SQL  
 
 Built 4 interactive dashboards replacing 100+ pages of monthly reports, driving operational insights for state traffic analysis:
@@ -22,11 +41,13 @@ The dashboard was presented at the 2019 LifeSavers Conference, an annual confere
 
 **Key Features**:
 - Dynamic filtering & drill-downs  
-- Multi-year traffic and incident trend analysis  
+- Multi-year traffic and incident trend analysis 
+
+[Back to top](#data-analytics-portfolio)
 
 ---
 
-### 2. Cancer Genomics Data QC Automation  
+### Cancer Genomics Data QC Automation  
 **Tools**: Python, Linux, REST-API  
 
 Automated large-scale, unstructured genomic data quality control at the University of Chicago's Center for Translational Data Science.
@@ -40,9 +61,11 @@ Automated large-scale, unstructured genomic data quality control at the Universi
 - API-based data retrieval & validation  
 - End-user support & documentation  
 
+[Back to top](#data-analytics-portfolio)
+
 ---
 
-### 3. Student Life Data Integration Dashboard  
+### Student Life Data Integration Dashboard  
 **Tools**: Python, Power BI, Semantic models 
 
 Developed an automated data pipeline integrating data from multiple university departments for operational insights. Designed dashboards to track student engagement, program outcomes, and operational KPIs.
@@ -56,9 +79,11 @@ Developed an automated data pipeline integrating data from multiple university d
 - Multi-stakeholder reporting views  
 - Role-based access dashboards  
 
+[Back to top](#data-analytics-portfolio)
+
 ---
 
-### 4. Data Quality Testing in Agribusiness Software  
+### Data Quality Testing in Agribusiness Software  
 **Tools**: Excel VBA  
 
 Performed QA analysis at EFC Systems Inc (Now Ever.Ag), identifying algorithmic inconsistencies across platforms.
@@ -70,9 +95,11 @@ Performed QA analysis at EFC Systems Inc (Now Ever.Ag), identifying algorithmic 
 - Automated data checks  
 - Cross-platform behavior validation  
 
+[Back to top](#data-analytics-portfolio)
+
 ---
 
-### 5. Research Data Analysis and Experimental Design Projects  
+### Research Data Analysis and Experimental Design Projects  
 **Tools**: Excel, VBA, SAS  
 
 Oversaw 9 research projects supervising statistical analysis and experimental design.
@@ -86,10 +113,12 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 
 **Publications**: [ORCID profile](https://orcid.org/0000-0002-8233-0630)
 
+[Back to top](#data-analytics-portfolio)
+
 ---
 
-### 6. Miscellaneous Projects:
-### 6.1. Land Use Change in Tennessee - Nashville  Software School
+### Miscellaneous Projects:
+### Land Use Change in Tennessee - Nashville  Software School
 **Tools**: Python (SciKit), R (ShinyApp)  
 
 * The objective of this project was to elucidate patterns and hypothetical rationales for land use changes in Tennessee. It comprised two sub-projects:
@@ -108,7 +137,9 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 - Principal Component Analysis
 - k-Nearest Neighbors  
 
-### 6.2. [Improve College-Going and College-Readiness](https://github.com/mforootan/TN_DoE_College-Readiness) - Division of Research and Evaluation, TN Dept of Education
+[Back to top](#data-analytics-portfolio)
+
+### [Improve College-Going and College-Readiness](https://github.com/mforootan/TN_DoE_College-Readiness) - Division of Research and Evaluation, TN Dept of Education
 **Tools**: Python
 
 * This repository comprises the data and computer code (in Python, in a Jupyter notebook) for an assessment project to identify measures that can evaluate high school graduates’ preparedness for collegiate studies.
@@ -125,7 +156,9 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 **Key Features**:
 - Principal Component Analysis
 
-### 6.3. [Logistic Regression](https://github.com/mforootan/NSS_Stat_LogReg) - Nashville Software School
+[Back to top](#data-analytics-portfolio)
+
+### [Logistic Regression](https://github.com/mforootan/NSS_Stat_LogReg) - Nashville Software School
 **Tools**: Python
 
 * This Jupyter notebook was developed to exhibit the concept of logistic regression, and how to implement this technique in Python. The code generates a logistic regression model, prints the model summary, exports and prints the coefficients, calculates predicted probabilities, and visualizes the logistic regression model along with the original data. The logistic regression model is applied to a binary response variable based on an explanatory variable. The visualization helps to understand how well the logistic regression model fits the data.
@@ -134,9 +167,58 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 
 ## Technical Skills  
 
+
 **Languages**: Python, R, SQL, GraphQL, DAX, VBA  
 **Tools**: Power BI, Tableau, SAS  
 **Techniques**: Experimental designs, Multivariate & Regressional Analysis, A/B testing  
+
+[Back to top](#data-analytics-portfolio)
+
+---
+
+### What I am good at:
+
+- *Data Storytelling & Insight Translation*: I have a natural ability to translate raw, complex data into clear, actionable insights. Where others see spreadsheets and messy datasets, I instinctively see narratives and opportunities for improvement. This talent has made me the go-to person for dashboard development and reporting transformations.
+
+- *Process Automation & Workflow Optimization*: I'm consistently recognized for my knack for streamlining inefficient processes. Whether it's automating data pipelines or reducing reporting time through code, I thrive on building solutions that save time and reduce human error.
+
+- *Technical Versatility Across Domains*: With hands-on experience in Python, R, SQL, SAS, Tableau, Power BI, and even REST APIs and GraphQL, I easily navigate between tools and platforms — a skill that makes cross-functional collaboration smoother and projects more resilient.
+
+- *Mentorship & Cross-Functional Coordination*: From mentoring students and analysts to liaising between data curators, owners, and stakeholders, I excel at relationship management. I naturally align people and processes, ensuring clarity and mutual understanding even in technically dense contexts.
+
+
+### What I deliver:
+
+- *Actionable Data Products That Drive Decisions*: At University of Tennessee Knoxville, I delivered integrated, automated dashboards and reporting workflows that enabled leaders to make faster, data-informed decisions. My work didn’t just add numbers to a dashboard — it provided clarity in ambiguity.
+
+- *Time & Cost Savings Through Automation*: At the Center for Translational data Science, I cut data processing time by 50% through automated cleaning and validation systems. This wasn’t just a workflow improvement; it freed up critical staff time for higher-value tasks and reduced data integrity issues in vital cancer genomics research.
+
+- *Operational Efficiency Through Digital Transformation*: At the State of Tennessee, I replaced over 100 pages of paper reports with interactive dashboards. This transition wasn’t merely digital; it transformed how teams consumed information, prioritized actions, and monitored safety outcomes.
+
+- *Knowledge Infrastructure for Future Growth*: Beyond immediate project deliverables, I consistently leave organizations better prepared for the future. From building a cell culture unit at the Research Institute of Forests and Rangelands to authoring technical documentation at the Center for Translational Data Science, I ensure that improvements are scalable and repeatable.
+
+
+### What I am most proud of:
+
+- *Award-Winning Dashboard Development*: At the State of Tennessee, my creation of interactive dashboards modernized reporting, improved user experience, and earned me Pay for Performance recognition — a rare accolade in a government data role.
+
+- *Establishing an End-to-End Data Quality System in Bioinformatics Research*: At the Center for Translational Data Science, I not only automated cleaning pipelines but also resolved systemic data integrity issues in genomic databases — directly improving data reliability for cancer research.
+
+- *Building a Biotech Research Unit From Scratch*: At the Research Institute of Forests and Rangelands, I established a cell culture unit and led conservation projects on endangered species. These efforts culminated in a peer-reviewed Springer publication — a career milestone blending science and operational leadership.
+
+- *Mentorship That Lasts*: Over the years, I’ve mentored numerous students, several of whom progressed into leadership roles. I measure success not only by my own achievements but by those I’ve helped lift along the way.
+
+
+### Why hiring me?
+
+I offer a rare blend of technical rigor, process intuition, and people-centered leadership. I’m not just someone who builds dashboards — I build systems, relationships, and narratives that turn data into decisive action.
+
+If you’re seeking a data professional who thrives in fast-paced, cross-functional environments, who’s as comfortable cleaning a messy dataset as presenting to executives, and who aligns with mission-driven, outcome-focused cultures — that’s me.
+
+I’m drawn to organizations that value clarity, efficiency, and impact, and I deliver all three. My track record in public health, education, biotech, and traffic safety analytics proves that I adapt quickly, deliver consistently, and elevate the people and systems around me.
+
+
+[Back to top](#data-analytics-portfolio)
 
 ---
 ##### ~ / M y _ L i f e / i n _ Z e r o e s _ a n d _ O n e $
@@ -156,6 +238,9 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 ###### - I was among the first round of [Blogger](http://massihforootan.blogspot.com/) users who were invited by Google to register for Gmail in 2004 ([Story](https://www.theguardian.com/technology/blog/2004/apr/21/bloggerusersg)). Despite a wide range of usernames being available (including both my first and last name individually), I preferred to coin the very fourteen-character username I already had with Yahoo since 1999 (registered a few days after the Pegasus one) as my online identity. 
 ###### - Since then, I have owned email addresses with .net, .com, .ac.uk, .ac.ir, .gov, .org, and .edu domains; in that order.
 ###### - I am an Inbox Zero.
+
+[Back to top](#data-analytics-portfolio)
+
 
  
 
