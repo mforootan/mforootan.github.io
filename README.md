@@ -182,8 +182,8 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 
 - *Process Automation & Workflow Optimization*: I'm consistently recognized for my knack for streamlining inefficient processes. Whether it's automating data pipelines or reducing reporting time through code, I thrive on building solutions that save time and reduce human error.
 
-- *Technical Versatility Across Domains*: With hands-on experience in Python, R, SQL, SAS, Tableau, Power BI, and even REST APIs and GraphQL, I easily navigate between tools and platforms — a skill that makes cross-functional collaboration smoother and projects more resilient.
-
+- *Technical Versatility Across Domains*: With hands-on experience in Python, R, SQL, SAS, Tableau, Power BI, and even REST APIs and GraphQL, I easily navigate between tools and platforms — a skill that makes cross-functional collaboration smoother and projects more resilient. I actively develop new technical skills by pairing AI tools with my current expertise.
+  
 - *Mentorship & Cross-Functional Coordination*: From mentoring students and analysts to liaising between data curators, owners, and stakeholders, I excel at relationship management. I naturally align people and processes, ensuring clarity and mutual understanding even in technically dense contexts.
 
 
@@ -195,7 +195,7 @@ Oversaw 9 research projects supervising statistical analysis and experimental de
 
 - *Operational Efficiency Through Digital Transformation*: At the State of Tennessee, I replaced over 100 pages of paper reports with interactive dashboards. This transition wasn’t merely digital; it transformed how teams consumed information, prioritized actions, and monitored safety outcomes.
 
-- *Knowledge Infrastructure for Future Growth*: Beyond immediate project deliverables, I consistently leave organizations better prepared for the future. From building a cell culture unit at the Research Institute of Forests and Rangelands to authoring technical documentation at the Center for Translational Data Science, I ensure that improvements are scalable and repeatable.
+- *Knowledge Infrastructure for Future Growth*: Beyond immediate project deliverables, I consistently leave organizations better prepared for the future. From building a cell culture unit at the Research Institute of Forests and Rangelands to authoring technical documentation at the Center for Translational Data Science, I ensure that improvements are scalable and repeatable. I leverage AI tools to tailor my expertise to meet new requirements.
 
 
 ### What I am most proud of:
