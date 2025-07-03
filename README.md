@@ -66,12 +66,12 @@ Automated large-scale, unstructured genomic data quality control at the Universi
 ---
 
 ### Student Life Data Integration Dashboard  
-**Tools**: Python, Power BI, Semantic models 
+**Tools**: Python, Power BI, Semantic models, AI prompting 
 
 Developed an automated data pipeline integrating data from multiple university departments for operational insights. Designed dashboards to track student engagement, program outcomes, and operational KPIs.
 
 - Automated data cleaning and integration process from disparate systems.
-- Created interactive dashboards reducing reporting time for stakeholders.
+- Created interactive dashboards, reducing reporting time for stakeholders.
 - Increased data visibility across Student Life Effectiveness initiatives.
 
 **Key Features**:
@@ -102,7 +102,7 @@ Performed QA analysis at EFC Systems Inc (Now Ever.Ag), identifying algorithmic 
 ### Research Data Analysis and Experimental Design Projects  
 **Tools**: Excel, VBA, SAS  
 
-Oversaw 9 research projects supervising statistical analysis and experimental design.
+Oversaw 9 research projects, supervising statistical analysis and experimental design.
 
 - Taught statistics and experimental methodology.
 - Developed low-cost protocols to optimize student research budgets.
