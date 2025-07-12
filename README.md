@@ -202,21 +202,20 @@ Oversaw 9 research projects, supervising statistical analysis and experimental d
 
 - *Award-Winning Dashboard Development*: At the State of Tennessee, my creation of interactive dashboards modernized reporting, improved user experience, and earned me Pay for Performance recognition — a rare accolade in a government data role.
 
-- *Establishing an End-to-End Data Quality System in Bioinformatics Research*: At the Center for Translational Data Science, I not only automated cleaning pipelines but also resolved systemic data integrity issues in genomic databases — directly improving data reliability for cancer research.
+- *Establishing an End-to-End Data Quality System in Bioinformatics Research*: At the Center for Translational Data Science, I not only automated cleaning pipelines but also resolved systemic data integrity issues in genomic databases, directly improving data reliability for cancer research.
 
 - *Building a Biotech Research Unit From Scratch*: At the Research Institute of Forests and Rangelands, I established a cell culture unit and led conservation projects on endangered species. These efforts culminated in a peer-reviewed Springer publication — a career milestone blending science and operational leadership.
 
 - *Mentorship That Lasts*: Over the years, I’ve mentored numerous students, several of whom progressed into leadership roles. I measure success not only by my own achievements but by those I’ve helped lift along the way.
 
 
-### Why hiring me?
+### Why hire me?
+
+I’m drawn to organizations that value clarity, efficiency, and impact, and I deliver all three. My track record in public health, education, biotech, and traffic safety analytics proves that I adapt quickly, produce consistently, and elevate the people and systems around me.
 
 I offer a rare blend of technical rigor, process intuition, and people-centered leadership. I’m not just someone who builds dashboards — I build systems, relationships, and narratives that turn data into decisive action.
 
 If you’re seeking a data professional who thrives in fast-paced, cross-functional environments, who’s as comfortable cleaning a messy dataset as presenting to executives, and who aligns with mission-driven, outcome-focused cultures — that’s me.
-
-I’m drawn to organizations that value clarity, efficiency, and impact, and I deliver all three. My track record in public health, education, biotech, and traffic safety analytics proves that I adapt quickly, deliver consistently, and elevate the people and systems around me.
-
 
 [Back to top](#data-analytics-portfolio)
 
