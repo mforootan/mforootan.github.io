@@ -12,7 +12,7 @@
     * [Student Life Data Integration Dashboard](#student-life-data-integration-dashboard)
     * [Data Quality Testing in Agribusiness Software](#data-quality-testing-in-agribusiness-software)
     * [Research Data Analysis and Experimental Design Projects](#research-data-analysis-and-experimental-design-projects)
-    * Mini - Projects
+    * Mini-Projects
         
         * [Land Use Change in Tennessee](#land-use-change-in-tennessee---nashville--software-school)
         * [Improve College-Going and College-Readiness](#improve-college-going-and-college-readiness---division-of-research-and-evaluation-tn-dept-of-education)
@@ -161,7 +161,7 @@ Oversaw 9 research projects, supervising statistical analysis and experimental d
 ### [Logistic Regression](https://github.com/mforootan/NSS_Stat_LogReg) - Nashville Software School
 **Tools**: Python
 
-* This Jupyter notebook was developed to exhibit the concept of logistic regression, and how to implement this technique in Python. The code generates a logistic regression model, prints the model summary, exports and prints the coefficients, calculates predicted probabilities, and visualizes the logistic regression model along with the original data. The logistic regression model is applied to a binary response variable based on an explanatory variable. The visualization helps to understand how well the logistic regression model fits the data.
+* This Jupyter notebook was developed to exhibit the concept of logistic regression and how to implement this technique in Python. The code generates a logistic regression model, prints the model summary, exports and prints the coefficients, calculates predicted probabilities, and visualizes the logistic regression model along with the original data. The logistic regression model is applied to a binary response variable based on an explanatory variable. The visualization helps to understand how well the logistic regression model fits the data.
 
 ---
 
@@ -189,9 +189,9 @@ Oversaw 9 research projects, supervising statistical analysis and experimental d
 
 ### What I deliver:
 
-- *Actionable Data Products That Drive Decisions*: At University of Tennessee Knoxville, I delivered integrated, automated dashboards and reporting workflows that enabled leaders to make faster, data-informed decisions. My work didn’t just add numbers to a dashboard — it provided clarity in ambiguity.
+- *Actionable Data Products That Drive Decisions*: At the University of Tennessee, Knoxville, I delivered integrated, automated dashboards and reporting workflows that enabled leaders to make faster, data-informed decisions. My work didn’t just add numbers to a dashboard — it provided clarity in ambiguity.
 
-- *Time & Cost Savings Through Automation*: At the Center for Translational data Science, I cut data processing time by 50% through automated cleaning and validation systems. This wasn’t just a workflow improvement; it freed up critical staff time for higher-value tasks and reduced data integrity issues in vital cancer genomics research.
+- *Time & Cost Savings Through Automation*: At the Center for Translational Data Science, I cut data processing time by 50% through automated cleaning and validation systems. This wasn’t just a workflow improvement; it freed up critical staff time for higher-value tasks and reduced data integrity issues in vital cancer genomics research.
 
 - *Operational Efficiency Through Digital Transformation*: At the State of Tennessee, I replaced over 100 pages of paper reports with interactive dashboards. This transition wasn’t merely digital; it transformed how teams consumed information, prioritized actions, and monitored safety outcomes.
 
