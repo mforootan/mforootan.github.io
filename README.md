@@ -56,7 +56,7 @@ Automated large-scale, unstructured genomic data quality control at the Universi
 - Developed reusable Python scripts for error detection, data migration, and cleaning.
 - Supported users via help desk, script writing, and documentation.
 
-#### Highlights - GDC tutorial videos for tools [OncoMatrix](https://www.youtube.com/watch?v=ZgSeJCqLmzY&list=PLaXJeOudgf60aE6tqrZcIhm9B4Ivxar4a&index=8), [Mutation Frequency](https://www.youtube.com/watch?v=dbbuk-zhmvc&list=PLaXJeOudgf60aE6tqrZcIhm9B4Ivxar4a&index=7), and [ProteinPaint](https://www.youtube.com/watch?v=5AXvhtFd_Es&list=PLaXJeOudgf60aE6tqrZcIhm9B4Ivxar4a&index=14)
+#### Highlights: GDC tutorial videos for tools [OncoMatrix](https://www.youtube.com/watch?v=ZgSeJCqLmzY&list=PLaXJeOudgf60aE6tqrZcIhm9B4Ivxar4a&index=8), [Mutation Frequency](https://www.youtube.com/watch?v=dbbuk-zhmvc&list=PLaXJeOudgf60aE6tqrZcIhm9B4Ivxar4a&index=7), and [ProteinPaint](https://www.youtube.com/watch?v=5AXvhtFd_Es&list=PLaXJeOudgf60aE6tqrZcIhm9B4Ivxar4a&index=14)
 
 
 **Key Features**:
