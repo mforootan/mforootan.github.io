@@ -1,10 +1,11 @@
+![my_logo](image/4mobile_green.jpg)
 #  massiHUB
 ### Data Analytics Portfolio
 * [LinkedIn profile](https://www.linkedin.com/in/massihforootan/)
 * [What I am good at](#what-i-am-good-at)
 * [What I deliver](#what-i-deliver)
 * [What am I most proud of?](#what-i-am-most-proud-of)
-* [Why hiring me?](#why-hiring-me)
+* [Why hiring me?](#why-hire-me)
 * Portfolio Projects
     
     * [Tennessee Integrated Traffic Analysis Dashboards](#tennessee-integrated-traffic-analysis-dashboards)
