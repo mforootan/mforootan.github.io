@@ -2,10 +2,7 @@
 #  massiHUB
 ### Data Analytics Portfolio
 * [LinkedIn profile](https://www.linkedin.com/in/massihforootan/)
-* [What I am good at](#what-i-am-good-at)
-* [What I deliver](#what-i-deliver)
-* [What am I most proud of?](#what-i-am-most-proud-of)
-* [Why hiring me?](#why-hire-me)
+
 * Portfolio Projects
     
     * [Tennessee Integrated Traffic Analysis Dashboards](#tennessee-integrated-traffic-analysis-dashboards)
@@ -18,9 +15,13 @@
         * [Land Use Change in Tennessee](#land-use-change-in-tennessee---nashville--software-school)
         * [Improve College-Going and College-Readiness](#improve-college-going-and-college-readiness---division-of-research-and-evaluation-tn-dept-of-education)
         * [Logistic Regression](#logistic-regression---nashville-software-school)
+          
 * [Technical Skills](#technical-skills)
-
-
+* About Me
+    * [What I am good at](#what-i-am-good-at)
+    * [What I deliver](#what-i-deliver)
+    * [What am I most proud of?](#what-i-am-most-proud-of)
+    * [Why hiring me?](#why-hire-me)
 
 ## Portfolio Projects  
 
