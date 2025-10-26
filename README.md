@@ -36,7 +36,7 @@ This dashboard comprises near-real-time interactive information on fatal and ser
 
 The dashboard enables a nuanced analysis of fatal and serious crashes through interactive filters and graphs, powered by a SQL database and Tableau. Users can analyze trends and patterns by location, road conditions, time of day, victim demographics, and other parameters. The dashboard provides actionable insights to inform traffic safety policies, enforcement initiatives, infrastructure improvements, public education campaigns, and other countermeasures aimed at reducing crash-related deaths and injuries on Tennessee roads.
 
-The dashboard was presented at the 2019 LifeSavers Conference, an annual conference on injury prevention and traffic safety organized by the National Safety Council. ([Link](https://lifesaversconference.org/wp-content/uploads/2019/03/Forootan-ESP-06-a.pdf))
+The dashboard was presented at the 2019 LifeSavers Conference, an annual conference on injury prevention and traffic safety organized by the National Safety Council. 
 
 - Designed KPIs and interactive reports for law enforcement and policy teams.
 - Earned a Pay-for-Performance (P4P) award for operational efficiency.
