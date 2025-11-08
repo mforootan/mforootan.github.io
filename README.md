@@ -114,7 +114,9 @@ Oversaw 9 research projects, supervising statistical analysis and experimental d
 
 **Key Features**:
 - Multivariate analysis  
-- Experimental designs  
+- Experimental designs
+
+#### Highlights: SAS learning [sample scripts](https://github.com/mforootan/SAS_ODS) for experimental design and multivariate analysis.
 
 **Publications**: [ORCID profile](https://orcid.org/0000-0002-8233-0630)
 
