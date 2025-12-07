@@ -227,7 +227,7 @@ If you’re seeking a data professional who thrives in fast-paced, cross-functio
 [Back to top](#data-analytics-portfolio)
 
 ---
-##### ~ / M y _ L i f e / i n _ Z e r o e s _ a n d _ O n e $
+##### ~ / m y _ l i f e / i n _ z e r o e s _ a n d _ o n e $
 
 ###### I stepped into the programming world in my teenage years with a [CASIO FX-702P](https://www.google.com/search?q=casio+fx+702p) calculator. Equipped with a collection of built-in math functions and a BASIC programming language environment, it was a suitable tool for those who were interested in automating simple to semi-complex math problems. When 8-bit home computers became popular (for dual use of gaming and programming), my pick was a [ZX-Spectrum +2](https://www.google.com/search?q=zx+spectrum+%2B2), pretty much for the same trend of programming interests. 
 
@@ -239,7 +239,7 @@ If you’re seeking a data professional who thrives in fast-paced, cross-functio
 
 ###### After relocating to the United States, I initially joined the IT-agribusiness sector, but after a while realized that my knowledge in statistics and coding was perilously out of date. This founded an incentive to join a data science boot camp and add [Python](https://www.python.org/) and [R](https://www.r-project.org/) languages to my set of skills; followed by [SQL](https://www.w3schools.com/sql/) and [Tableau](https://www.tableau.com/) for business intelligence purposes after rejoining the job market. Since then, my data analysis career journey in road safety, cancer genomics, and education industry has prompted exploring business management and data wrangling tools such as [REST-API](https://www.google.com/search?q=rest-api), [GraphQL](https://graphql.org/), [PowerBI](https://powerbi.microsoft.com/), [Smartsheet](https://smartsheet.com/), albeit with the aid of AI tools, and I'm looking forward to reconciling my cross-domain experience to develop solutions for seamless and robust data streaming.
 
-##### . . / F u n _ F @ c t $
+##### . . / f u n _ f @ c t $
 ###### - My first email, registered in 1999, was an MS-DOS-based powered by [Pegasus Mail](http://www.pmail.com/overviews/ovw_pmail.htm). 
 ###### - I was among the first round of [Blogger](http://massihforootan.blogspot.com/) users who were invited by Google to register for Gmail in 2004 ([Story](https://www.theguardian.com/technology/blog/2004/apr/21/bloggerusersg)). Despite a wide range of usernames being available (including both my first and last name individually), I preferred to coin the very fourteen-character username I already had with Yahoo since 1999 (registered a few days after the Pegasus one) as my online identity. 
 ###### - Since then, I have owned email addresses with .net, .com, .ac.uk, .ac.ir, .gov, .org, and .edu domains; in that order.
