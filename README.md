@@ -7,7 +7,7 @@
     
     * [Tennessee Integrated Traffic Analysis Dashboards](#tennessee-integrated-traffic-analysis-dashboards)
     * [Cancer Genomics Data QC Automation](#cancer-genomics-data-qc-automation)
-    * [Student Life Data Integration Dashboard](#student-life-data-integration-dashboard)
+    * [Student Life Data Integration](#student-life-data-integration)
     * [Data Quality Testing in Agribusiness Software](#data-quality-testing-in-agribusiness-software)
     * [Research Data Analysis and Experimental Design Projects](#research-data-analysis-and-experimental-design-projects)
     * Mini-Projects
@@ -70,18 +70,20 @@ Automated large-scale, unstructured genomic data quality control at the Universi
 
 ---
 
-### Student Life Data Integration Dashboard  
+### Student Life Data Integration  
 **Tools**: Python, Power BI, Semantic models, AI prompting 
 
-Developed an automated data pipeline integrating data from multiple university departments for operational insights. Designed dashboards to track student engagement, program outcomes, and operational KPIs.
+Developed an automated data pipeline integrating data from multiple university departments for operational insights. Designed dashboards to track student engagement, program outcomes, and operational KPIs. Conducted student satisfaction assessment using multiple correspondence analysis.
 
 - Automated data cleaning and integration process from disparate systems.
 - Created interactive dashboards, reducing reporting time for stakeholders.
 - Increased data visibility across Student Life Effectiveness initiatives.
 
+#### Highlights: Multiple Correspondence Analysis for student satisfaction data [Jupyter Notebook](https://github.com/mforootan/AIU910/blob/main/Interview.ipynb)
+
 **Key Features**:
 - Live data connections  
-- Multi-stakeholder reporting views  
+- Multivariate analysis  
 - Role-based access dashboards  
 
 [Back to top](#data-analytics-portfolio)
