@@ -78,8 +78,10 @@ If you’re seeking a data professional who thrives in fast-paced, cross-functio
 ### Tennessee Integrated Traffic Analysis Dashboards  
 **Tools**: Tableau, SQL  
 
-Built 4 interactive dashboards replacing 100+ pages of monthly reports, driving operational insights for state traffic analysis:
-
+- Built 4 interactive dashboards replacing 100+ pages of monthly reports, driving operational insights for state traffic analysis:
+- Designed KPIs and interactive reports for law enforcement and policy teams.
+- Earned a Pay-for-Performance (P4P) award for operational efficiency.
+  
 #### Highlight: [Fatal and Serious Injury Crashes](https://www.tn.gov/safety/stats/dashboards/fatalseriousinjurycrashes.html)
 
 This dashboard comprises near-real-time interactive information on fatal and serious injury collisions on Tennessee roadways for the current and previous years.
@@ -88,8 +90,7 @@ The dashboard enables a nuanced analysis of fatal and serious crashes through in
 
 The dashboard was presented at the 2019 LifeSavers Conference, an annual conference on injury prevention and traffic safety organized by the National Safety Council. 
 
-- Designed KPIs and interactive reports for law enforcement and policy teams.
-- Earned a Pay-for-Performance (P4P) award for operational efficiency.
+
 
 **Key Features**:
 - Dynamic filtering & drill-downs  
@@ -123,8 +124,7 @@ Automated large-scale, unstructured genomic data quality control at the Universi
 ### Student Life Data Integration  
 **Tools**: Python, Power BI, Semantic models, AI prompting 
 
-Developed an automated data pipeline integrating data from multiple university departments for operational insights. Designed dashboards to track student engagement, program outcomes, and operational KPIs. Conducted student satisfaction assessment using multiple correspondence analysis.
-
+- Developed an automated data pipeline integrating data from multiple university departments for operational insights. Designed dashboards to track student engagement, program outcomes, and operational KPIs. Conducted student satisfaction assessment using multiple correspondence analysis.
 - Automated data cleaning and integration process from disparate systems.
 - Created interactive dashboards, reducing reporting time for stakeholders.
 - Increased data visibility across Student Life Effectiveness initiatives.
@@ -164,15 +164,13 @@ Performed QA analysis at EFC Systems Inc (Now Ever.Ag), identifying algorithmic 
 ### Research Data Analysis and Experimental Design Projects  
 **Tools**: Excel, VBA, SAS  
 
-#### Highlights: SAS learning [sample scripts](https://github.com/mforootan/SAS_ODS) for experimental design and multivariate analysis.
+- Oversaw 9 research projects, supervising statistical analysis and experimental design.
+- Taught statistics and experimental methodology: See my SAS learning [sample scripts](https://github.com/mforootan/SAS_ODS) for experimental design and multivariate analysis.
+- Developed low-cost protocols to optimize student research budgets.
 
 #### Highlights: Trends in Breeding and Biotechnology Research: A Review. ([Presentation](https://github.com/mforootan/Academy))
 
 This report reviews quantitative aspects of scientific research on trees, plants, and rangeland species in Iran, analyzing what has been studied and how. Comparing government-funded projects with university dissertations revealed clear differences in priorities: students favor quicker lab-based topics like genetic analysis, while institutions cover broader practical areas. Notable gaps were identified, with ecologically and commercially significant species like oak and Damask Rose receiving uneven attention across research domains. A panel of experts recommended prioritizing endangered, valuable, and ecosystem-critical species, proposing actions ranging from conservation to stress-response studies. The report concludes by calling for better organization of existing findings and a clearer roadmap for future research investment. This report was prepared in Persian (with an English translation available in the slideshow notes) and presented at the Research Institute of Forests and Rangelands in Iran in 2009.
-
-- Oversaw 9 research projects, supervising statistical analysis and experimental design.
-- Taught statistics and experimental methodology: See my SAS learning [sample scripts](https://github.com/mforootan/SAS_ODS) for experimental design and multivariate analysis.
-- Developed low-cost protocols to optimize student research budgets.
 
 **Key Features**:
 - Multivariate analysis  
