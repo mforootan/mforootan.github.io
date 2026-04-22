@@ -129,7 +129,7 @@ Developed an automated data pipeline integrating data from multiple university d
 - Created interactive dashboards, reducing reporting time for stakeholders.
 - Increased data visibility across Student Life Effectiveness initiatives.
 
-#### Highlights: Multiple Correspondence Analysis for student satisfaction data [(Jupyter Notebook)](https://github.com/mforootan/AIU910/blob/main/MCA.ipynb)
+#### Highlights: Multiple Correspondence Analysis for student satisfaction data ([Jupyter Notebook](https://github.com/mforootan/AIU910/blob/main/MCA.ipynb))
 
 * This report presents an analysis of student feedback data regarding study support, academic accessibility, and staff responsiveness. The analyst employed two statistical approaches: descriptive analysis examining frequency distributions and inferential analysis using Multiple Correspondence Analysis (MCA).
 * Key findings reveal that Net Promoter Scores (NPS) were consistently high across all student groups, though senior students showed significantly lower survey participation. Many students hadn't used tutoring services, resulting in incomplete tutor-related responses. The MCA identified two main variation components: tutor usage and staff responsiveness (first component), and NPS with class standing (second component).
@@ -164,16 +164,19 @@ Performed QA analysis at EFC Systems Inc (Now Ever.Ag), identifying algorithmic 
 ### Research Data Analysis and Experimental Design Projects  
 **Tools**: Excel, VBA, SAS  
 
-Oversaw 9 research projects, supervising statistical analysis and experimental design.
+#### Highlights: SAS learning [sample scripts](https://github.com/mforootan/SAS_ODS) for experimental design and multivariate analysis.
 
-- Taught statistics and experimental methodology.
+#### Highlights: Trends in Breeding and Biotechnology Research: A Review. ([Presentation](https://github.com/mforootan/Academy))
+
+This report reviews quantitative aspects of scientific research on trees, plants, and rangeland species in Iran, analyzing what has been studied and how. Comparing government-funded projects with university dissertations revealed clear differences in priorities: students favor quicker lab-based topics like genetic analysis, while institutions cover broader practical areas. Notable gaps were identified, with ecologically and commercially significant species like oak and Damask Rose receiving uneven attention across research domains. A panel of experts recommended prioritizing endangered, valuable, and ecosystem-critical species, proposing actions ranging from conservation to stress-response studies. The report concludes by calling for better organization of existing findings and a clearer roadmap for future research investment. This report was prepared in Persian (with an English translation available in the slideshow notes) and presented at the Research Institute of Forests and Rangelands in Iran in 2009.
+
+- Oversaw 9 research projects, supervising statistical analysis and experimental design.
+- Taught statistics and experimental methodology: See my SAS learning [sample scripts](https://github.com/mforootan/SAS_ODS) for experimental design and multivariate analysis.
 - Developed low-cost protocols to optimize student research budgets.
 
 **Key Features**:
 - Multivariate analysis  
 - Experimental designs
-
-#### Highlights: SAS learning [sample scripts](https://github.com/mforootan/SAS_ODS) for experimental design and multivariate analysis.
 
 **Publications**: [ORCID profile](https://orcid.org/0000-0002-8233-0630)
 
