@@ -76,7 +76,9 @@ If you’re seeking a data professional who thrives in fast-paced, cross-functio
 ## Portfolio Projects  
 
 ### Tennessee Integrated Traffic Analysis Dashboards  
+
 **Tools**: Tableau, SQL  
+**Key Features**: Dynamic filtering, Multi-year traffic and incident trend analysis 
 
 - Built 4 interactive dashboards replacing 100+ pages of monthly reports, driving operational insights for state traffic analysis:
 - Designed KPIs and interactive reports for law enforcement and policy teams.
@@ -90,21 +92,15 @@ The dashboard enables a nuanced analysis of fatal and serious crashes through in
 
 The dashboard was presented at the 2019 LifeSavers Conference, an annual conference on injury prevention and traffic safety organized by the National Safety Council. 
 
-
-
-**Key Features**:
-- Dynamic filtering & drill-downs  
-- Multi-year traffic and incident trend analysis 
-
 [Back to top](#massihub)
 
 ---
 
 ### Cancer Genomics Data QC Automation  
 **Tools**: Python, Linux, REST-API  
+**Key Features**: Automated QC pipelines, API-based data retrieval & validation, End-user support & documentation  
 
-Automated large-scale, unstructured genomic data quality control at the University of Chicago's Center for Translational Data Science.
-
+- Automated large-scale, unstructured genomic data quality control at the University of Chicago's Center for Translational Data Science.
 - Cut data QC processing time by ~50%.
 - Developed reusable Python scripts for error detection, data migration, and cleaning.
 - Supported users via help desk, script writing, and documentation.
@@ -112,17 +108,13 @@ Automated large-scale, unstructured genomic data quality control at the Universi
 #### Highlights: GDC tutorial videos for tools [OncoMatrix](https://www.youtube.com/watch?v=ZgSeJCqLmzY&list=PLaXJeOudgf60aE6tqrZcIhm9B4Ivxar4a&index=8), [Mutation Frequency](https://www.youtube.com/watch?v=dbbuk-zhmvc&list=PLaXJeOudgf60aE6tqrZcIhm9B4Ivxar4a&index=7), and [ProteinPaint](https://www.youtube.com/watch?v=5AXvhtFd_Es&list=PLaXJeOudgf60aE6tqrZcIhm9B4Ivxar4a&index=14)
 
 
-**Key Features**:
-- Automated QC pipelines  
-- API-based data retrieval & validation  
-- End-user support & documentation  
-
 [Back to top](#massihub)
 
 ---
 
 ### Student Life Data Integration  
 **Tools**: Python, Power BI, Semantic models, AI prompting 
+**Key Features**: Live data connections, Multivariate analysis, Role-based access dashboards  
 
 - Developed an automated data pipeline integrating data from multiple university departments for operational insights. Designed dashboards to track student engagement, program outcomes, and operational KPIs. Conducted student satisfaction assessment using multiple correspondence analysis.
 - Automated data cleaning and integration process from disparate systems.
@@ -131,15 +123,13 @@ Automated large-scale, unstructured genomic data quality control at the Universi
 
 #### Highlights: Multiple Correspondence Analysis for student satisfaction data ([Jupyter Notebook](https://github.com/mforootan/AIU910/blob/main/MCA.ipynb))
 
-* This report presents an analysis of student feedback data regarding study support, academic accessibility, and staff responsiveness. The analyst employed two statistical approaches: descriptive analysis examining frequency distributions and inferential analysis using Multiple Correspondence Analysis (MCA).
-* Key findings reveal that Net Promoter Scores (NPS) were consistently high across all student groups, though senior students showed significantly lower survey participation. Many students hadn't used tutoring services, resulting in incomplete tutor-related responses. The MCA identified two main variation components: tutor usage and staff responsiveness (first component), and NPS with class standing (second component).
-* Notable patterns emerged showing freshmen ranked NPS lower than sophomores and juniors, suggesting satisfaction increases with experience. Tutor-related metrics dominated the data variation, masking other parameters' relationships. The analysis revealed potential correlations between academic success, academic support, and clear communication, though statistical significance wasn't formally tested.
-* The report recommends engaging senior students for their valuable long-term perspective, tracking students longitudinally to observe changing perceptions, and considering a simplified NPS scale given the skewed distribution toward high scores. The analyst suggests dedicated statistical tests are needed to properly assess correlations between non-tutor metrics, as current relationships remain masked by tutor-usage data.
+This report presents an analysis of student feedback data regarding study support, academic accessibility, and staff responsiveness. The analyst employed two statistical approaches: descriptive analysis examining frequency distributions and inferential analysis using Multiple Correspondence Analysis (MCA).
 
-**Key Features**:
-- Live data connections  
-- Multivariate analysis  
-- Role-based access dashboards  
+Key findings reveal that Net Promoter Scores (NPS) were consistently high across all student groups, though senior students showed significantly lower survey participation. Many students hadn't used tutoring services, resulting in incomplete tutor-related responses. The MCA identified two main variation components: tutor usage and staff responsiveness (first component), and NPS with class standing (second component).
+
+Notable patterns emerged showing freshmen ranked NPS lower than sophomores and juniors, suggesting satisfaction increases with experience. Tutor-related metrics dominated the data variation, masking other parameters' relationships. The analysis revealed potential correlations between academic success, academic support, and clear communication, though statistical significance wasn't formally tested.
+
+The report recommends engaging senior students for their valuable long-term perspective, tracking students longitudinally to observe changing perceptions, and considering a simplified NPS scale given the skewed distribution toward high scores. The analyst suggests dedicated statistical tests are needed to properly assess correlations between non-tutor metrics, as current relationships remain masked by tutor-usage data.
 
 [Back to top](#massihub)
 
@@ -147,15 +137,11 @@ Automated large-scale, unstructured genomic data quality control at the Universi
 
 ### Data Quality Testing in Agribusiness Software  
 **Tools**: Excel VBA  
+**Key Features**: Automated data checks, Cross-platform behavior validation  
 
-Performed QA analysis at EFC Systems Inc (Now Ever.Ag), identifying algorithmic inconsistencies across platforms.
-
+- Performed QA analysis at EFC Systems Inc (Now Ever.Ag), identifying algorithmic inconsistencies across platforms.
 - Designed test scenarios mimicking real-world use.
 - Discovered critical discrepancies between iOS and Windows software versions.
-
-**Key Features**:
-- Automated data checks  
-- Cross-platform behavior validation  
 
 [Back to top](#massihub)
 
@@ -163,6 +149,7 @@ Performed QA analysis at EFC Systems Inc (Now Ever.Ag), identifying algorithmic 
 
 ### Research Data Analysis and Experimental Design Projects  
 **Tools**: Excel, VBA, SAS  
+**Key Features**: Multivariate analysis, Experimental designs
 
 - Oversaw 9 research projects, supervising statistical analysis and experimental design.
 - Taught statistics and experimental methodology: See my SAS learning [sample scripts](https://github.com/mforootan/SAS_ODS) for experimental design and multivariate analysis.
@@ -172,9 +159,6 @@ Performed QA analysis at EFC Systems Inc (Now Ever.Ag), identifying algorithmic 
 
 This report reviews quantitative aspects of scientific research on trees, plants, and rangeland species in Iran, analyzing what has been studied and how. Comparing government-funded projects with university dissertations revealed clear differences in priorities: students favor quicker lab-based topics like genetic analysis, while institutions cover broader practical areas. Notable gaps were identified, with ecologically and commercially significant species like oak and Damask Rose receiving uneven attention across research domains. A panel of experts recommended prioritizing endangered, valuable, and ecosystem-critical species, proposing actions ranging from conservation to stress-response studies. The report concludes by calling for better organization of existing findings and a clearer roadmap for future research investment. This report was prepared in Persian (with an English translation available in the slideshow notes) and presented at the Research Institute of Forests and Rangelands in Iran in 2009.
 
-**Key Features**:
-- Multivariate analysis  
-- Experimental designs
 
 **Publications**: [ORCID profile](https://orcid.org/0000-0002-8233-0630)
 
@@ -184,7 +168,9 @@ This report reviews quantitative aspects of scientific research on trees, plants
 
 ### Miscellaneous Projects:
 ### Land Use Change in Tennessee - Nashville  Software School
-**Tools**: Python (SciKit), R (ShinyApp)  
+**Tools**: Python (SciKit), R (ShinyApp) 
+
+**Key Features**: Principal Component Analysis, k-Nearest Neighbors  
 
 * The objective of this project was to elucidate patterns and hypothetical rationales for land use changes in Tennessee. It comprised two sub-projects:
 
@@ -198,14 +184,13 @@ This report reviews quantitative aspects of scientific research on trees, plants
 
 * In summary, this project leveraged statistical programming languages and multivariate analysis to glean scientific insights into drivers of land use trends. The interactive dashboards and dimension reduction models provide data-driven understanding of how exurban dynamics shape land use patterns over time. Further research could relate the identified factors to policies on zoning, land conservation, transportation infrastructure, and urban development.
 
-**Key Features**:
-- Principal Component Analysis
-- k-Nearest Neighbors  
 
 [Back to top](#massihub)
 
 ### [Improve College-Going and College-Readiness](https://github.com/mforootan/TN_DoE_College-Readiness) - Division of Research and Evaluation, TN Dept of Education
 **Tools**: Python
+
+**Key Features**: Principal Component Analysis
 
 * This repository comprises the data and computer code (in Python, in a Jupyter notebook) for an assessment project to identify measures that can evaluate high school graduates’ preparedness for collegiate studies.
 
@@ -217,9 +202,6 @@ This report reviews quantitative aspects of scientific research on trees, plants
     * Enrolling for college. The two metrics that seem most relevant are: Enrolling for a 4-year degree (i.e., a strong education), and enrolling shortly after high school (an index of passion for education).
 
 * However, regarding data quality, there were both missing values and duplicated entries in the dataset. The strategy to manage the data was deliberated and implemented. Further research avenues (disaggregating the data within sub-regions) were suggested.
-
-**Key Features**:
-- Principal Component Analysis
 
 [Back to top](#massihub)
 
