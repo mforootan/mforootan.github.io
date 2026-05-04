@@ -9,8 +9,6 @@
 * [What am I most proud of?](#what-i-am-most-proud-of)
 * [Why hiring me?](#why-hire-me)
 
----
-
 ### Data Analytics Portfolio
 
 * Portfolio Projects
