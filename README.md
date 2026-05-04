@@ -114,6 +114,7 @@ The dashboard was presented at the 2019 LifeSavers Conference, an annual confere
 
 ### Student Life Data Integration  
 **Tools**: Python, Power BI, Semantic models, AI prompting 
+
 **Key Features**: Live data connections, Multivariate analysis, Role-based access dashboards  
 
 - Developed an automated data pipeline integrating data from multiple university departments for operational insights. Designed dashboards to track student engagement, program outcomes, and operational KPIs. Conducted student satisfaction assessment using multiple correspondence analysis.
