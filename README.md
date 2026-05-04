@@ -1,4 +1,4 @@
-![my_logo](image/4mobile_green.jpg)
+![my_logo](image/4skype_c.jpg)
 # massiHUB
 
 ### About Me
