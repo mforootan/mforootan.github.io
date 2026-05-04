@@ -1,4 +1,4 @@
-![my_logo](image/4skype_c.jpg)
+![my_logo](image/4skype_c.jpg =50x50)
 # massiHUB
 
 ### About Me
