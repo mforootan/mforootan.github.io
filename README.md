@@ -8,6 +8,7 @@
 * [What I deliver](#what-i-deliver)
 * [What am I most proud of?](#what-i-am-most-proud-of)
 * [Why hiring me?](#why-hire-me)
+---
 
 ### Data Analytics Portfolio
 
@@ -18,14 +19,11 @@
     * [Student Life Data Integration](#student-life-data-integration)
     * [Data Quality Testing in Agribusiness Software](#data-quality-testing-in-agribusiness-software)
     * [Research Data Analysis and Experimental Design Projects](#research-data-analysis-and-experimental-design-projects)
-    * Mini-Projects
-        
+    * Mini-Projects      
         * [Land Use Change in Tennessee](#land-use-change-in-tennessee---nashville--software-school)
         * [Improve College-Going and College-Readiness](#improve-college-going-and-college-readiness---division-of-research-and-evaluation-tn-dept-of-education)
         * [Logistic Regression](#logistic-regression---nashville-software-school)
           
-* [Technical Skills](#technical-skills)
-
 ---
 
 ### What I am good at:
@@ -211,17 +209,7 @@ This report reviews quantitative aspects of scientific research on trees, plants
 
 * This Jupyter notebook was developed to exhibit the concept of logistic regression and how to implement this technique in Python. The code generates a logistic regression model, prints the model summary, exports and prints the coefficients, calculates predicted probabilities, and visualizes the logistic regression model along with the original data. The logistic regression model is applied to a binary response variable based on an explanatory variable. The visualization helps to understand how well the logistic regression model fits the data.
 
----
-
-## Technical Skills  
-
-
-**Languages**: Python, R, SQL, GraphQL, DAX, VBA  
-**Tools**: Power BI, Tableau, SAS  
-**Techniques**: Experimental designs, Multivariate & Regressional Analysis, A/B testing  
-
 [Back to top](#massihub)
-
 
 ---
 ##### ~ / m y _ l i f e / i n _ z e r o e s _ a n d _ o n e $
