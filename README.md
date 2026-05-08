@@ -12,17 +12,15 @@
 
 ### Data Analytics Portfolio
 
-* Portfolio Projects
-    
-    * [Tennessee Integrated Traffic Analysis Dashboards](#tennessee-integrated-traffic-analysis-dashboards)
-    * [Cancer Genomics Data QC Automation](#cancer-genomics-data-qc-automation)
-    * [Student Life Data Integration](#student-life-data-integration)
-    * [Data Quality Testing in Agribusiness Software](#data-quality-testing-in-agribusiness-software)
-    * [Research Data Analysis and Experimental Design Projects](#research-data-analysis-and-experimental-design-projects)
-    * Mini-Projects      
-        * [Land Use Change in Tennessee](#land-use-change-in-tennessee---nashville--software-school)
-        * [Improve College-Going and College-Readiness](#improve-college-going-and-college-readiness---division-of-research-and-evaluation-tn-dept-of-education)
-        * [Logistic Regression](#logistic-regression---nashville-software-school)
+* [Tennessee Integrated Traffic Analysis Dashboards](#tennessee-integrated-traffic-analysis-dashboards)
+* [Cancer Genomics Data QC Automation](#cancer-genomics-data-qc-automation)
+* [Student Life Data Integration](#student-life-data-integration)
+* [Data Quality Testing in Agribusiness Software](#data-quality-testing-in-agribusiness-software)
+* [Research Data Analysis and Experimental Design Projects](#research-data-analysis-and-experimental-design-projects)
+* Mini-Projects      
+    * [Land Use Change in Tennessee](#land-use-change-in-tennessee---nashville--software-school)
+    * [Improve College-Going and College-Readiness](#improve-college-going-and-college-readiness---division-of-research-and-evaluation-tn-dept-of-education)
+    * [Logistic Regression](#logistic-regression---nashville-software-school)
           
 ---
 
